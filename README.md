@@ -1,27 +1,19 @@
-<h1 align="center">Hi, I'm Prathmesh Amle</h1>
+# Hi, I'm Prathmesh Amle
 
 <h3 align="center">
-AI Developer • Software Engineer • Machine Learning Enthusiast
+  AI Developer • Machine Learning • Backend Development • Automation
 </h3>
 
 <p align="center">
-  <a href="https://github.com/PRATHMESH-topg">
-    <img src="https://komarev.com/ghpvc/?username=PRATHMESH-topg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/PRATHMESH-topg?tab=followers">
-    <img src="https://img.shields.io/github/followers/PRATHMESH-topg?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/PRATHMESH-topg?tab=repositories">
-    <img src="https://img.shields.io/github/stars/PRATHMESH-topg?label=Total%20Stars&style=flat" alt="GitHub Stars"/>
-  </a>
+  Building intelligent systems, scalable backend applications and AI-powered automation.
 </p>
 
 <p align="center">
   <a href="https://github.com/PRATHMESH-topg">
-    <img src="https://img.shields.io/badge/GitHub-PRATHMESH--topg-181717?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=PRATHMESH-topg&label=Profile%20Views&color=181717&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://www.linkedin.com/in/prathmesh-amle/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prathmesh%20Amle-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/PRATHMESH-topg?tab=followers">
+    <img src="https://img.shields.io/github/followers/PRATHMESH-topg?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
   </a>
 </p>
 
@@ -29,363 +21,275 @@ AI Developer • Software Engineer • Machine Learning Enthusiast
 
 ## About Me
 
-I'm an **AI Developer and Software Engineer from India** focused on building practical AI-powered applications, backend systems, and scalable software.
-
-I enjoy working across the stack — from **machine learning models and LLM applications** to **REST APIs, databases, cloud infrastructure, and modern web applications**.
-
-* Building AI-powered products and automation systems
-* Exploring LLMs, RAG, AI agents and ML pipelines
-* Working with backend and full-stack technologies
-* Learning cloud infrastructure, AWS and Linux
-* Interested in scalable and production-ready systems
-* Always experimenting with new technologies
+- AI Developer passionate about **Artificial Intelligence, Machine Learning and Software Engineering**
+- Currently building **AI-powered WhatsApp automation systems**
+- Working with **Java, Spring Boot, Python, React, Next.js and .NET**
+- Interested in **LLMs, RAG, AI Agents, Computer Vision and Automation**
+- Currently learning **AWS and Linux**
+- Building production-oriented projects rather than only academic projects
+- Open to collaborating on **AI/ML, backend and automation projects**
 
 ---
 
-## What I'm Currently Working On
+## What I'm Building
 
-### AutoChats — AI Automation Platform
+### AutoChats — AI WhatsApp Automation
 
-An AI-powered automation platform focused on building intelligent business workflows and conversational automation.
+An AI-powered WhatsApp automation platform designed to help businesses automate customer conversations, product queries, knowledge retrieval and business workflows.
 
-**Current focus:**
+**Tech Stack**
 
-`AI Agents` `Automation` `WhatsApp` `LLMs` `RAG` `MongoDB` `Next.js`
-
-[View AutoChats Repository](https://github.com/PRATHMESH-topg/AutoChats-the-Automation)
-
----
-
-## GitHub Analytics
+`Next.js` `TypeScript` `Node.js` `MongoDB` `Pinecone` `Gemini` `AI/ML`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PRATHMESH-topg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHMESH-topg&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PRATHMESH-topg&hide_border=true" />
+  <a href="https://github.com/PRATHMESH-topg/AutoChats-the-Automation">
+    <img src="https://img.shields.io/badge/View%20Project-AutoChats-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## Contribution Activity
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHMESH-topg&hide_border=true&area=true" width="100%"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHMESH-topg&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRATHMESH-topg&theme=github_dark"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRATHMESH-topg&theme=github_dark"
+    width="49%"
+    alt="Repositories Per Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=PRATHMESH-topg&theme=github-dark-blue&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-## GitHub Overview
+# Contribution Activity
 
 <p align="center">
-
-<img src="https://img.shields.io/github/repos/PRATHMESH-topg?label=Total%20Repositories&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/stars/PRATHMESH-topg?label=Stars&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/PRATHMESH-topg?label=Followers&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/commit-activity/y/PRATHMESH-topg?label=Yearly%20Commits&style=for-the-badge" />
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRATHMESH-topg&theme=github_dark"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## AutoChats
 
-<h3 align="center">AutoChats</h3>
+AI-powered WhatsApp automation platform for businesses.
 
-<p align="center">
-AI-powered automation and conversational business platform.
-</p>
+**Highlights**
 
-<p align="center">
+- AI customer support
+- WhatsApp automation
+- Knowledge base
+- Vector search
+- Product information retrieval
+- AI-powered responses
+- SaaS architecture
 
-`Next.js` `MongoDB` `AI` `LLM` `Automation`
+**Stack**
 
-</p>
+`Next.js` `TypeScript` `MongoDB` `Pinecone` `Gemini`
 
-<p align="center">
 <a href="https://github.com/PRATHMESH-topg/AutoChats-the-Automation">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+View Repository →
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">InsightAI</h3>
+## InsightAI
 
-<p align="center">
-AI-powered project focused on intelligent data and insight generation.
-</p>
+AI-focused project exploring intelligent data processing and machine learning capabilities.
 
-<p align="center">
+**Focus**
 
-`Python` `Machine Learning` `AI` `Data`
+- Artificial Intelligence
+- Machine Learning
+- Data Processing
+- Intelligent Insights
+- AI-based applications
 
-</p>
+**Stack**
 
-<p align="center">
+`Python` `Machine Learning` `AI`
+
 <a href="https://github.com/PRATHMESH-topg/insightaii">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+View Repository →
 </a>
-</p>
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+## AI Smart Proctoring
 
-<h3 align="center">AI Smart Proctoring</h3>
+AI-powered offline examination monitoring system.
 
-<p align="center">
-AI-powered offline exam proctoring system using computer vision and behavioral analysis.
-</p>
+**Features**
 
-<p align="center">
+- Face detection
+- Behaviour analysis
+- Gaze monitoring
+- Phone detection
+- EMF-based device detection
+- Cheating risk score
+- Real-time monitoring
+- Automated reports
 
-`Python` `OpenCV` `YOLO` `AI/ML` `IoT`
+**Stack**
 
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">AI HelpDesk</h3>
-
-<p align="center">
-AI-assisted helpdesk platform designed around ticket management and intelligent support workflows.
-</p>
-
-<p align="center">
-
-`ASP.NET Core` `C#` `MySQL` `React` `AI`
-
-</p>
+`Python` `YOLO` `OpenCV` `MediaPipe` `AI/ML` `IoT`
 
 </td>
 
+<td width="50%" valign="top">
+
+## AI HelpDesk
+
+Full-stack intelligent helpdesk system designed for ticket management and AI-assisted support.
+
+**Features**
+
+- Ticket management
+- User & role management
+- Departments
+- Categories
+- Notifications
+- Audit logs
+- AI responses
+- REST API
+
+**Stack**
+
+`ASP.NET Core 8` `C#` `EF Core` `MySQL` `React` `TypeScript`
+
+</td>
 </tr>
 </table>
 
 ---
 
-## Tech Stack
+# Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-181717?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### AI / Machine Learning
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light" />
-
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-181717?style=for-the-badge"/>
 </p>
 
-`Machine Learning` `Deep Learning` `Computer Vision` `LLMs` `RAG` `AI Agents`
+### Backend
 
----
-
-### Backend & APIs
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,nodejs,express,fastapi&theme=light" />
-
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-181717?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-181717?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-181717?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-181717?style=for-the-badge"/>
 </p>
-
-`REST APIs` `Microservices` `Authentication` `Backend Architecture`
-
----
 
 ### Frontend
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css&theme=light" />
-
+<p>
+  <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
-
----
 
 ### Databases
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" />
-
+<p>
+  <img src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
-
----
 
 ### Cloud / DevOps / Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman&theme=light" />
-
+<p>
+  <img src="https://img.shields.io/badge/AWS-181717?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## Skills
+# Core Skills
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### AI & ML
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* LLM Applications
-* RAG Systems
-* AI Agents
-* NLP
-
-</td>
-
-<td valign="top" width="33%">
-
-### Software Engineering
-
-* Java
-* Spring Boot
-* C#
-* ASP.NET Core
-* Python
-* Node.js
-* REST APIs
-* System Design
-
-</td>
-
-<td valign="top" width="33%">
-
-### Data & Infrastructure
-
-* MongoDB
-* MySQL
-* PostgreSQL
-* AWS
-* Docker
-* Kubernetes
-* Linux
-* Git
-
-</td>
-</tr>
-</table>
+| Area | Skills |
+|---|---|
+| Programming | Java, Python, JavaScript, TypeScript, C#, SQL |
+| AI / ML | Machine Learning, Deep Learning, Computer Vision, LLMs, RAG |
+| Backend | Spring Boot, ASP.NET Core, Node.js, Express.js, REST APIs |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Databases | MySQL, MongoDB, Pinecone, Firebase |
+| DevOps | AWS, Docker, Linux, Git, GitHub |
+| AI Engineering | AI Agents, Vector Databases, Embeddings, AI Automation |
 
 ---
 
-## Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws" />
-
-<img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<img src="https://img.shields.io/badge/System%20Design-Architecture-4A4A4A?style=for-the-badge" />
-
-</p>
-
----
-
-## Development Focus
+# Currently Learning
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Generative AI / LLMs
-        ↓
-AI Agents & RAG
-        ↓
-Backend Engineering
-        ↓
-Cloud & Scalable Systems
-```
-
----
-
-## My Development Philosophy
-
-> Build things that solve real problems.
-
-I prefer understanding how systems work rather than simply connecting libraries together.
-
-My current focus is on combining **AI + Software Engineering + Cloud** to build applications that can actually be deployed and used.
-
----
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prathmesh-amle/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:prathameshamale9@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/prathm__3.14/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/prathmesh_amle">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## Resume
-
-<p align="center">
-
-<a href="https://drive.google.com/file/d/1UD0xadlxkDIGRjr5Z02wO_pjV7BP5VQd/view">
-<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRATHMESH-topg&bg_color=ffffff&color=333333&line=0e75b6&point=0e75b6&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile.</b>
-</p>
-
-<p align="center">
-  <i>Keep building. Keep learning.</i>
-</p>
+AWS
+Linux
+System Design
+LLM Applications
+RAG Architecture
+AI Agents
+Cloud Deployment
+Scalable Backend Architecture
