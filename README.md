@@ -29,7 +29,7 @@
 
 ---
 
-# `> whoami`
+# `> Who Am I ?`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -55,7 +55,7 @@ I enjoy working across the entire stack — from AI/ML models and LLM pipelines 
 
 ---
 
-# `> about_me`
+# `> About Me..`
 
 - Building **AI-powered SaaS products**
 - Working with **LLMs, ML pipelines and automation**
@@ -68,7 +68,7 @@ I enjoy working across the entire stack — from AI/ML models and LLM pipelines 
 
 ---
 
-# `> current_build`
+# `> Current Build..`
 
 <div align="center">
 
@@ -143,7 +143,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> featured_systems`
+# `> Featured System..`
 
 | System | Focus | Stack |
 |---|---|---|
@@ -154,7 +154,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> ai_engineering_stack`
+# `> AI Engineer Stack..`
 
 <div align="center">
 
@@ -178,7 +178,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> software_engineering_stack`
+# `> Software Know..`
 
 <div align="center">
 
@@ -210,36 +210,6 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> architecture`
-
-```text
-                         ┌──────────────────┐
-                         │      CLIENT      │
-                         │ Web / WhatsApp   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │       API        │
-                         │ REST / Webhooks  │
-                         └────────┬─────────┘
-                                  │
-                    ┌─────────────┼─────────────┐
-                    │             │             │
-                    ▼             ▼             ▼
-              ┌──────────┐  ┌──────────┐  ┌──────────┐
-              │   AUTH   │  │ BUSINESS │  │    AI    │
-              │  LAYER   │  │  LOGIC   │  │  ENGINE  │
-              └──────────┘  └──────────┘  └─────┬────┘
-                                                │
-                                  ┌─────────────┼─────────────┐
-                                  │             │             │
-                                  ▼             ▼             ▼
-                             ┌─────────┐   ┌──────────┐   ┌─────────┐
-                             │  LLM    │   │ Vector   │   │ Memory  │
-                             │ Gemini  │   │ Pinecone │   │ MongoDB │
-                             └─────────┘   └──────────┘   └─────────┘
-```
 
 ---
 
@@ -282,7 +252,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> engineering_mindset`
+# `> Engineering mindset`
 
 ```text
                     ┌───────────────────────┐
@@ -322,7 +292,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> current_mission`
+# `> Current_mission`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
@@ -344,7 +314,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> learning_pipeline`
+# `> Learning Pipeline`
 
 | Area | Current Focus |
 |---|---|
@@ -358,7 +328,7 @@ https://github.com/PRATHMESH-topg/AutoChats-the-Automation
 
 ---
 
-# `> development_status`
+# `> Development_status`
 
 ```text
 AI / ML             ███████████████████░  90%
@@ -374,7 +344,7 @@ DevOps              ██████████░░░░░░░░░░
 
 ---
 
-# `> things_i_build`
+# `> Things i build`
 
 ```text
 AI APPLICATIONS
@@ -401,7 +371,7 @@ INTELLIGENT SYSTEMS
 
 ---
 
-# `> open_source`
+# `> Open source`
 
 I enjoy experimenting with ideas, building useful tools and turning projects into production-ready systems.
 
@@ -423,7 +393,7 @@ I'm always interested in collaborating.
 
 ---
 
-# `> connect`
+# `> Connect`
 
 <div align="center">
 
@@ -447,7 +417,7 @@ I'm always interested in collaborating.
 
 ---
 
-# `> resume`
+# `> Resume`
 
 <div align="center">
 
@@ -461,7 +431,7 @@ I'm always interested in collaborating.
 
 ---
 
-# `> terminal`
+# `> Terminal`
 
 ```bash
 ┌──(prathmesh㉿ai-lab)-[~/projects]
