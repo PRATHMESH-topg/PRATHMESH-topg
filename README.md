@@ -35,9 +35,9 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                     SYSTEM PROFILE                           │
 ├──────────────────────────────────────────────────────────────┤
-│ NAME        : Prathmesh Amle                                │
+│ NAME        : Prathmesh Amle                                 │
 │ ROLE        : AI Engineer / Software Developer               │
-│ LOCATION    : India                                         │
+│ LOCATION    : India                                          │
 │ FOCUS       : AI • ML • LLMs • Backend • Automation          │
 │ CURRENT     : Building AI-powered products                   │
 │ LEARNING    : AWS • Linux • Cloud Architecture               │
